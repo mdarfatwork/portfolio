@@ -8,7 +8,7 @@ export default function Hero() {
   return (
     <section className="flex flex-col items-center justify-center py-24 text-center">
       <h1 className="mb-4 text-4xl font-bold text-white sm:text-5xl md:text-6xl">
-        I'm{" "}
+        I&apos;m{" "}
         <TypeAnimation
           sequence={[
             "Mohammed Arfat",
