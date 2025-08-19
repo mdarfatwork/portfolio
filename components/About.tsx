@@ -6,7 +6,7 @@ export default function About() {
           About Me
         </h2>
         <p className="text-lg leading-relaxed text-neutral-400">
-          I'm a self-taught web developer who learned through YouTube, practice,
+          I&apos;m a self-taught web developer who learned through YouTube, practice,
           and continuous coding. Currently, I&apos;m working as a Junior Web
           Developer with Luis, where I focus on building modern applications
           using MERN, Next.js, TypeScript, and PostgreSQL. I&apos;m passionate
