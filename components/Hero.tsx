@@ -38,7 +38,7 @@ export default function Hero() {
           className="text-white bg-blue-600 hover:bg-blue-700 rounded-xl"
         >
           <a
-            href="https://drive.google.com/file/d/14FFO1zHPWYQQiZov6k0aA_JtP2XmRHnW/view"
+            href="https://drive.google.com/file/d/1PSzJwz45v4qzHNs96Frkg45hdQ7lonxQ/view"
             target="_blank"
             rel="noopener noreferrer"
           >
